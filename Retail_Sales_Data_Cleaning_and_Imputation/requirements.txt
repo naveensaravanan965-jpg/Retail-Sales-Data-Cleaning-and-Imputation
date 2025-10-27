@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy
+scikit-learn
+matplotlib
+missingno
+jupyter
